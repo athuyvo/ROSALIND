@@ -1,6 +1,6 @@
 # ROSALIND "COMPLEMENTING A STRAND OF DNA" solved by Anh Vo
 
-# requires: R vesrsion 4.1 and Biostrings package
+# requires: R version 4.1 and Biostrings package
 
 BiocManager::install("Biostrings")
 library(Biostrings)
